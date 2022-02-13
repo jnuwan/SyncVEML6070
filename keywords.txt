@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For SyncVEML6070
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SyncVEML6070	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+getUV	KEYWORD2
+sleep	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+#	LITERAL1
+VEML6070_HALF_T	LITERAL1
+VEML6070_1_T	LITERAL1
+VEML6070_2_T	LITERAL1
+VEML6070_4_T	LITERAL1
